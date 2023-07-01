@@ -9,6 +9,9 @@
 <a href="https://www.novypro.com/profile_projects/e-maditya">
   <img align="left" alt="Aditya's Power Bi Projects" width="22px" src="https://www.k2e.com/wp-content/uploads/2018/12/Power-BI-Logo.png" />
 </a>
+<a href="https://github.com/emaditya123?tab=repositories">
+  <img align="left" alt="Aditya's Power Bi Projects" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
+</a>
 
 
 
