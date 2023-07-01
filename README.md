@@ -3,7 +3,7 @@
   <img align="left" alt="Aditya's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 </a>
-<a href="www.linkedin.com/in/emaditya">
+<a href="https://www.linkedin.com/in/emaditya/">
   <img align="left" alt="E M ADITYA's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.novypro.com/profile_projects/e-maditya">
