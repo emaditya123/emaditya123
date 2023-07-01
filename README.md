@@ -1,9 +1,46 @@
-- 👋 Hi, I’m @emaditya123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Data Analyst Projects
-- 📫 How to reach me https://www.linkedin.com/in/e-m-aditya-a250901b9/
-- emaditya0@gmail.com  
+### Hey there 
+<a href="https://www.instagram.com/e.m.aditya/">
+  <img align="left" alt="Aditya's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+</a>
+<a href="https://www.linkedin.com/in/E M ADITYA/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.novypro.com/profile_projects/e-maditya">
+  <img align="left" alt="Aditya's Power Bi Projects" width="22px" src="https://www.k2e.com/wp-content/uploads/2018/12/Power-BI-Logo.png" />
+</a>
+
+
+
+<br />
+
+Hi, i'm [E M Aditya]
+
+📊 Data Analyst | 🧠 Problem Solver | 📈 Visualization Enthusiast
+
+🔬 As a data analyst, I'm passionate about extracting meaningful insights from complex datasets and translating them into actionable strategies. With a strong background in statistics and a keen eye for detail, I thrive on tackling data-driven challenges and uncovering patterns that drive business growth.
+I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:emaditya0@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://w3skillset.com/wp-content/uploads/2021/09/PowerBI-Logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<!--END_SECTION:waka-->
+
+
+
+
+
+
 
 <!---
 emaditya123/emaditya123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
