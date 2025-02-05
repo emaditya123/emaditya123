@@ -4,7 +4,7 @@
 </a>
 </a>
 <a href="https://www.linkedin.com/in/emaditya/">
-  <img align="left" alt="ADITYA's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="ADITYA's LinkedIN" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png" />
 </a>
 <a href="https://www.novypro.com/profile_projects/e-maditya">
   <img align="left" alt="Aditya's Power Bi Projects" width="22px" src="https://www.k2e.com/wp-content/uploads/2018/12/Power-BI-Logo.png" />
