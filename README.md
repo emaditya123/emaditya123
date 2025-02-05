@@ -21,8 +21,18 @@ Hi, i'm [E M Aditya]
 
 📊 Aspiring Business Consultant|🧠 Problem Solver|📈 Visualization Enthusiast
 
-🔬 As a data analyst, I'm passionate about extracting meaningful insights from complex datasets and translating them into actionable strategies. With a strong background in statistics and a keen eye for detail, I thrive on tackling data-driven challenges and uncovering patterns that drive business growth.
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+👋 Hi there! I'm E M Aditya, an aspiring **Business Consultant** passionate about helping businesses optimize their strategies, improve operations, and drive growth.  
+
+📊 I specialize in:  
+- Business strategy & market analysis  
+- Process improvement & operational efficiency  
+- Financial modeling & data-driven decision-making  
+- Digital transformation & technology adoption  
+
+🚀 Currently, I'm learning and working on business case studies, consulting frameworks, and data analysis tools to refine my expertise.  
+
+📬 Let’s connect! I'm always open to discussions on business strategy, startups, and innovation.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
