@@ -19,7 +19,7 @@
 
 Hi, i'm [E M Aditya]
 
-📊 Data Analyst | 🧠 Problem Solver | 📈 Visualization Enthusiast
+📊 Aspiring Business Consultant|🧠 Problem Solver|📈 Visualization Enthusiast
 
 🔬 As a data analyst, I'm passionate about extracting meaningful insights from complex datasets and translating them into actionable strategies. With a strong background in statistics and a keen eye for detail, I thrive on tackling data-driven challenges and uncovering patterns that drive business growth.
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
